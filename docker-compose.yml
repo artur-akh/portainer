@@ -19,5 +19,3 @@ volumes:
 
 networks:
   portainer-net:
-
-# Connect: https://your_server_ip:9443 or http://your_server_ip:8000
