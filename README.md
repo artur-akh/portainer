@@ -12,7 +12,7 @@ docker run -d -p 9443:9443 --name=portainer --restart=always \
 portainer/portainer-ce:latest
 ```
 
-**Connect:**<br>
+**Connecting:**<br>
 ```
 https://your_server_ip:9443 or http://your_server_ip:8000
 ```
